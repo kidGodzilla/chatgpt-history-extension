@@ -25,5 +25,7 @@ Remember, Updates don't occur automatically when you manually install the extens
 
 ## Using the extension
 1. Navigate to [https://chat.openai.com/](ChatGPT), and browse normally.
-2. We will store a backup of your conversations in your browser's local storage
-3. If they fail to load, they can be loaded from the extension
+2. The extension will store a backup of your conversations in your browser's local storage
+3. If they fail to load from OpenAI's servers, they will be loaded from the extension.
+
+Note: if you have a lot of history, you should page through it all once by clicking "Load More" until there is nothing else to load, so the extension saves everything.
