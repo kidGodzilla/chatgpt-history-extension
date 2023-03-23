@@ -15,7 +15,7 @@ Then:
 7. Select your extension directory
 
 ### Firefox: 
-4. Navigate to (about:debugging#/runtime/this-firefox)[about:debugging#/runtime/this-firefox] in your browser.
+4. Navigate to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) in your browser.
 5. Click Load Temporary Addon & then select the manifest.json in the folder you just created
 
 ### That's it!
